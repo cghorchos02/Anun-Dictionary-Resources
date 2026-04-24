@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "language": "Anun",
+    "purpose": "Master vocabulary index for quick lookup",
+    "last_updated": "2026-04-24",
+    "total_vocabulary_entries": 1,
+    "version": "1.0"
+  },
+  "index": [
+    {
+      "english": "language",
+      "anun": "anun",
+      "part_of_speech": "noun",
+      "source_file": "data/vocabulary/nouns.json",
+      "id": "n_001"
+    }
+  ]
+}
