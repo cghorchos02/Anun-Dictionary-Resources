@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "language": "Anun",
+    "part_of_speech": "noun",
+    "last_updated": "2026-04-24",
+    "total_entries": 1
+  },
+  "entries": [
+    {
+      "id": "n_001",
+      "anun": "anun",
+      "english": ["language", "speech"],
+      "part_of_speech": "noun",
+      "frequency": "high",
+      "definition": "A system of communication using words and grammar; the Anun language itself",
+      "examples": [
+        {
+          "anun": "Anun vel mirat.",
+          "english": "I speak Anun.",
+          "notes": "Present tense, first person singular"
+        },
+        {
+          "anun": "Anun maldar ir sunal.",
+          "english": "The Anun language is beautiful.",
+          "notes": "Copula construction"
+        }
+      ],
+      "related_words": ["anune", "anunis"],
+      "etymology": "Proto-Anun *anu- (to speak/communicate)",
+      "notes": "Core vocabulary. The word 'anun' simultaneously refers to the language and the act of speaking."
+    }
+  ]
+}
