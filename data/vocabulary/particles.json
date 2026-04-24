@@ -3,8 +3,26 @@
     "language": "Anun",
     "part_of_speech": "particle",
     "last_updated": "2026-04-24",
-    "total_entries": 0,
-    "notes": "Particles include grammatical markers, discourse particles, and other function words"
+    "total_entries": 2
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "part_001",
+      "anun": "is",
+      "english": ["the"],
+      "part_of_speech": "particle",
+      "frequency": "high",
+      "definition": "Definite article marking specific or known nouns",
+      "examples": [
+        {
+          "anun": "is anun",
+          "english": "the language",
+          "notes": "Marks the noun as definite/specific"
+        }
+      ],
+      "related_words": [],
+      "etymology": "Unknown",
+      "notes": "Core grammatical particle. Precedes nouns to indicate definiteness."
+    }
+  ]
 }
